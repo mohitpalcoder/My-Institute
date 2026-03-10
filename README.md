@@ -1,2 +1,4 @@
-# My-Institute
-This is a simple website for a IT institute created by only using of HTML &amp; Bootstrap
+Institute Website (Bootstrap)
+Created a basic institute website layout using Bootstrap. Designed pages such as Home, Courses,
+About, and Contact. Used Bootstrap components like Navbar, Cards, Grid System, and Forms.
+Technologies: HTML, CSS, Bootstrap
